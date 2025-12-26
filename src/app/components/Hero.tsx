@@ -64,7 +64,7 @@ export function Hero() {
                 <span className="text-sm">Trusted by 9,000+ People</span>
               </div>
 
-              <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-6 leading-tight">
+              <h1 className="text-4xl md:text-5xl lg:text-5xl font-bold mb-6 leading-tight">
                 Get Your Personalized{" "}
                 <span className="text-[#fca311]">
                   Mobile Numerology Report
@@ -72,13 +72,13 @@ export function Hero() {
                 & Unlock Your Potential
               </h1>
 
-              <h2 className="text-xl md:text-2xl mb-6 text-[#e5e5e5]">
+              <h2 className="text-xl md:text-1 mb-6 text-[#e5e5e5]">
                 A wrong mobile number can lead to{" "}
                 <span className="text-[#fca311] font-semibold">money blockages</span>,
                 professional setbacks, and relationship struggles.
               </h2>
 
-              <p className="text-[#e5e5e5]/80 mb-8 text-lg leading-relaxed">
+              <p className="text-[#e5e5e5]/80 mb-8 text-mg leading-relaxed">
                 Discover the hidden energy of your mobile number and unlock a path of clarity,
                 growth, and abundance with a professional numerology report crafted just for you.
               </p>
