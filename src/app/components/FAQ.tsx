@@ -81,12 +81,12 @@ export function FAQ() {
           viewport={{ once: true }}
           className="mt-16 text-center text-[#e5e5e5]"
         >
-          <p>
+          {/* <p>
             Powered & Marketed By{" "}
             <a href="#" className="text-[#fca311] hover:text-[#fca311]/80 font-semibold">
               Marketingoe
             </a>
-          </p>
+          </p> */}
         </motion.footer>
       </div>
     </section>
