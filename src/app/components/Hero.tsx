@@ -5,7 +5,19 @@ export function Hero() {
   return (
     <section className="relative min-h-screen flex flex-col overflow-hidden">
       {/* Gradient Background */}
-      <div className="absolute inset-0 bg-gradient-to-br from-[#14213d] via-[#0a1425] to-black" />
+     <div
+  style={{
+    backgroundColor: "#03071E",
+    backgroundImage:
+      "url('https://sachinlohia.in/wp-content/uploads/2025/04/Untitled-design.png')",
+    backgroundSize: "cover",
+    backgroundPosition: "center",
+    backgroundRepeat: "no-repeat",
+    // backgroundBlendMode: "multiply", // multiply | screen | darken | lighten
+    opacity:"30%",
+  }}
+  className="absolute inset-0"
+/>
       
       {/* Animated orbs */}
       <div className="absolute inset-0 overflow-hidden">
