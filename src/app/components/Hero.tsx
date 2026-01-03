@@ -1,5 +1,5 @@
 import { motion } from "motion/react";
-import { Sparkles } from "lucide-react";
+import { Link, Sparkles } from "lucide-react";
 
 export function Hero() {
   return (
@@ -95,15 +95,20 @@ export function Hero() {
                 growth, and abundance with a professional numerology report crafted just for you.
               </p>
 
-              <a
-                href="#report-form"
-                className="inline-flex flex-col items-center gap-1 px-8 py-4 bg-[#fca311] text-black rounded-full font-semibold shadow-lg shadow-[#fca311]/50 hover:shadow-xl hover:shadow-[#fca311]/70 transition-all hover:scale-105"
-              >
-                <span>Get Your Numerology Report</span>
-                <span className="text-sm font-normal opacity-90">
-                  Only ₹199 (Regular Price: <s>₹799</s>)
-                </span>
-              </a>
+         <a
+          href="https://superprofile.bio/vp/personalized-mobile-numerology-report-151"
+          // target="_blank"
+          rel="noopener noreferrer"
+          className="inline-flex flex-col items-center gap-1 px-8 py-4 bg-[#fca311] text-black rounded-full font-semibold shadow-lg shadow-[#fca311]/50 hover:shadow-xl hover:shadow-[#fca311]/70 transition-all hover:scale-105"
+>       
+
+  <span>Get Your Numerology Report</span>
+  <span className="text-sm font-normal opacity-90">
+    Only ₹191 (Regular Price: <s>₹799</s>)
+  </span>
+</a>
+
+
             </motion.div>
 
             {/* Right Content - Report Card */}

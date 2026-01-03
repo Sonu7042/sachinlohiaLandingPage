@@ -104,12 +104,12 @@ export function Features() {
           </div>
 
           <a
-            href="#report-form"
+            href="https://superprofile.bio/vp/personalized-mobile-numerology-report-151"
             className="block text-center px-8 py-5 bg-[#fca311] text-black rounded-2xl font-semibold shadow-lg shadow-[#fca311]/50 hover:shadow-xl hover:shadow-[#fca311]/70 transition-all hover:scale-105"
           >
             <span className="block text-lg mb-1">I Want Mobile Numerology Report</span>
             <span className="block text-sm opacity-90">
-              (Get Your Report <s>₹799</s> ₹199/– Only)
+              (Get Your Report <s>₹799</s> ₹191/– Only)
             </span>
           </a>
         </motion.div>
